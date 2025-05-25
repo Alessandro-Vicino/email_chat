@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995194807580",
+    "project_id": "email-chat-14610",
+    "storage_bucket": "email-chat-14610.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995194807580:android:649b8d3d1dff27bcb306d9",
+        "android_client_info": {
+          "package_name": "com.AlessandroVicino.email_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0if4H2v1OqBYWwvAfvC2sx-Ou7Ryqj5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
